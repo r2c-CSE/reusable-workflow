@@ -1,3 +1,8 @@
+name: Reusable workflow with Semgrep
+
+on:
+  workflow_call:
+  
 jobs:
   semgrep:
     # User definable name of this GitHub Actions job.
