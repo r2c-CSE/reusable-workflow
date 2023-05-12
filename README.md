@@ -1,2 +1,2 @@
-# reusable-workflows
+# reusable-workflow
 reusable workflow: semgrep
